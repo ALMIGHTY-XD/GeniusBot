@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/MadMax393/GeniusBot"><img src="AdityaHalder/resource/images/Genius.png" height="128" width="128" alt="Genius-Userbot"/></a>
+<a href="https://github.com/Almighty-xd/GeniusBot"><img src="AdityaHalder/resource/images/Genius.png" height="128" width="128" alt="Genius-Userbot"/></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@ Genius-Userbot is an advanced & powerful multi-featured Telegram userbot.
 </p>
 
 <p align="center">
-<a href="https://heroku.com/deploy?template=https://github.com/MadMax393/GeniusBot">
+<a href="https://heroku.com/deploy?template=https://github.com/Almighty-xd/GeniusBot">
 <img src="AdityaHalder/resource/images/Heroku.svg" alt="Deploy to Heroku"></a>
 </p>
 
